@@ -1,0 +1,6 @@
+g++ code.cpp -o code.exe
+
+that line right there finaly allowed us to make file, well compile a file of c++ code. After days of trying and taking breaks, I
+finally found a solution via a youtube video after the search "compile cpp on command prompt."
+The key was to edit the environment variables, to a path, that once I sat in, could execute the MinGW. Minimalist GNU for W32.
+now that I can make files with the above command, and exe them with the filename.exe I am excited to cranking away at this insane tic tac toe game. 
